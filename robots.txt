@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kaenaiced.vjbolton.com/sitemap.xml
